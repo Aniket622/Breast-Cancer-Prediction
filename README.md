@@ -73,7 +73,7 @@ Using historical diagnostic data, this project aims to classify tumors as **Mali
 ---
 
 ## 🏆 Best Performing Model
-The best-performing model is selected based on **accuracy and balanced precision–recall performance**, as shown in the notebook.
+The best-performing model (KNN) is selected based on **accuracy and balanced precision–recall performance**, as shown in the notebook.
 
 ---
 
